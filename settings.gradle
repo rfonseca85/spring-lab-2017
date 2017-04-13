@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'spring-lab-old'
+rootProject.name = 'spring-lab-2017'
